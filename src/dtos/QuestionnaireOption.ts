@@ -4,6 +4,12 @@ interface QuestionnaireOptionBase
     optionText: string,
 }
 
+interface LocaleQuestionnaireBase
+{
+    locale: string,
+    options: QuestionnaireOptionBase[],
+}
+
 interface LocaleQuestionnaireOption
 {
     locale: string,
@@ -16,4 +22,4 @@ interface LocaleQuestionnaireOption
     familyMembers: QuestionnaireOptionBase[]
 }
 
-export type {QuestionnaireOptionBase, LocaleQuestionnaireOption}
+export type {QuestionnaireOptionBase, LocaleQuestionnaireBase, LocaleQuestionnaireOption}

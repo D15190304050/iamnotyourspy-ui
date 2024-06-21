@@ -24,5 +24,9 @@
   "separateFamilyMembers": "Membres de la famille séparés",
   "separationTimeInMonths": "Temps de séparation (mois)",
   "submit": "Soumettre",
-  "pleaseInput": "Veuillez entrer"
+  "pleaseInput": "Veuillez entrer",
+  "viewAggregateData": "Voir les données agrégées",
+  "days": "Jours",
+  "averageWaitingTime": "Temps d'attente moyen",
+  "checkEmail": "Nous vous avons envoyé un e - mail, Allez vérifier."
 }

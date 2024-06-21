@@ -24,5 +24,9 @@
   "separateFamilyMembers": "分开的家庭成员",
   "separationTimeInMonths": "分开时间 (月)",
   "submit": "提交",
-  "pleaseInput": "请输入"
+  "pleaseInput": "请输入",
+  "viewAggregateData": "查看汇总数据",
+  "days": "天",
+  "averageWaitingTime": "平均等待时间",
+  "checkEmail": "我们已经给你发了一封电子邮件，请前往验证。"
 }

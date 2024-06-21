@@ -24,5 +24,9 @@
   "separateFamilyMembers": "Separate family members",
   "separationTimeInMonths": "Separation time (months)",
   "submit": "Submit",
-  "pleaseInput": "Please input"
+  "pleaseInput": "Please input",
+  "viewAggregateData": "View Aggregate Data",
+  "days": "Days",
+  "averageWaitingTime": "Average waiting time",
+  "checkEmail": "We have sent you an email, please go and verify."
 }
